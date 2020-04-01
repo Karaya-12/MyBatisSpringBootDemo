@@ -1,0 +1,33 @@
+# Custom Server Port: 8081
+server:
+  port: 8081
+
+# Swagger Documentation
+# JSON Format: http://localhost:8081/v2/api-docs
+# Swagger UI: http://localhost:8081/swagger-ui.html
+# Swagger Bootstrap UI: http://localhost:8081/doc.html
+
+# Spring Boot Configuration
+spring:
+  application:
+    name: mybatisdemo
+
+  # Spring MySQL Datasource
+  datasource:
+    name: mybatisdemo
+    url: jdbc:mysql://localhost:3306/MyBatisDemo
+    username: root
+    password: 980417xiao1412
+
+# MyBatis Configuration
+mybatis:
+  # Domain Package Path
+  type-aliases-package: com.mybatis.demo.domain
+  # Config & Mapper Path
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml
+
+  # MyBatis Custom Configuration
+  configuration:
+    # Enable Camel Case Support
+    map-underscore-to-camel-case: true
