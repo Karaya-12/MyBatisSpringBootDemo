@@ -12,9 +12,11 @@ CREATE TABLE DemoUser
 );
 
 -- -------------------------------
--- Records for DemoUser
+-- Preset Records for DemoUser
 -- -------------------------------
 INSERT INTO `DemoUser`
 VALUES ('10000001', 'Karaya_12', 'password1');
 INSERT INTO `DemoUser`
 VALUES ('10000002', 'ShiZhi Xu', 'password2');
+INSERT INTO `DemoUser`
+VALUES ('10000003', 'Panzer_Odyssey', 'password3');

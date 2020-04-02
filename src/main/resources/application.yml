@@ -21,13 +21,6 @@ spring:
 
 # MyBatis Configuration
 mybatis:
-  # Domain Package Path
-  type-aliases-package: com.mybatis.demo.domain
   # Config & Mapper Path
   config-location: classpath:mybatis/mybatis-config.xml
   mapper-locations: classpath:mybatis/mapper/*.xml
-
-  # MyBatis Custom Configuration
-  configuration:
-    # Enable Camel Case Support
-    map-underscore-to-camel-case: true

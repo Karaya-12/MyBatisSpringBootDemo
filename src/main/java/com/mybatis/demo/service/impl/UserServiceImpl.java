@@ -11,8 +11,12 @@ import java.util.List;
 @Service("userService")
 public class UserServiceImpl implements UserService {
 
+    private final UserMapper userMapper;
+
     @Autowired  // Autowire Mapper Bean in Service Impl
-    private UserMapper userMapper;
+    public UserServiceImpl(UserMapper userMapper) {
+        this.userMapper = userMapper;
+    }
 
     @Override
     public List<User> findAll() {

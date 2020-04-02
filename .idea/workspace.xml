@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="698b6f5d-de95-42d7-af31-0ea44962f80f" name="Default Changelist" comment="" />
+    <list default="true" id="698b6f5d-de95-42d7-af31-0ea44962f80f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mybatis/demo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/Mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mybatis/demo/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/demo/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mybatis/demo/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/demo/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mybatis/demo/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mybatis/demo/service/impl/UserServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -51,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mybatis" />
@@ -65,6 +82,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
@@ -110,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585771906767</updated>
       <workItem from="1585771910414" duration="3492000" />
+      <workItem from="1585859077372" duration="2143000" />
     </task>
     <servers />
   </component>
@@ -133,37 +152,37 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="768" y="249" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585773506414" />
-    <state width="1348" height="260" key="GridCell.Tab.0.bottom" timestamp="1585775422970">
+    <state width="1348" height="260" key="GridCell.Tab.0.bottom" timestamp="1585861095383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422970" />
-    <state width="1348" height="260" key="GridCell.Tab.0.center" timestamp="1585775422969">
+    <state width="1348" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095383" />
+    <state width="1348" height="260" key="GridCell.Tab.0.center" timestamp="1585861095382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422969" />
-    <state width="1348" height="260" key="GridCell.Tab.0.left" timestamp="1585775422968">
+    <state width="1348" height="260" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095382" />
+    <state width="1348" height="260" key="GridCell.Tab.0.left" timestamp="1585861095382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422968" />
-    <state width="1348" height="260" key="GridCell.Tab.0.right" timestamp="1585775422969">
+    <state width="1348" height="260" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095382" />
+    <state width="1348" height="260" key="GridCell.Tab.0.right" timestamp="1585861095382">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422969" />
-    <state width="1348" height="260" key="GridCell.Tab.1.bottom" timestamp="1585775422973">
+    <state width="1348" height="260" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095382" />
+    <state width="1348" height="260" key="GridCell.Tab.1.bottom" timestamp="1585861095384">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422973" />
-    <state width="1348" height="260" key="GridCell.Tab.1.center" timestamp="1585775422972">
+    <state width="1348" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095384" />
+    <state width="1348" height="260" key="GridCell.Tab.1.center" timestamp="1585861095383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422972" />
-    <state width="1348" height="260" key="GridCell.Tab.1.left" timestamp="1585775422971">
+    <state width="1348" height="260" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095383" />
+    <state width="1348" height="260" key="GridCell.Tab.1.left" timestamp="1585861095383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422971" />
-    <state width="1348" height="260" key="GridCell.Tab.1.right" timestamp="1585775422972">
+    <state width="1348" height="260" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095383" />
+    <state width="1348" height="260" key="GridCell.Tab.1.right" timestamp="1585861095383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1348" height="260" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585775422972" />
+    <state width="1348" height="260" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585861095383" />
   </component>
 </project>
