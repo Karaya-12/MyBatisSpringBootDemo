@@ -6,6 +6,7 @@ server:
 # JSON Format: http://localhost:8081/v2/api-docs
 # Swagger UI: http://localhost:8081/swagger-ui.html
 # Swagger Bootstrap UI: http://localhost:8081/doc.html
+# MyBatis Test: http://localhost:8081/user/findAll
 
 # Spring Boot Configuration
 spring:

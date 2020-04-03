@@ -11,6 +11,11 @@ import java.util.List;
 @Service("userService")
 public class UserServiceImpl implements UserService {
 
+    /* // Deprecated Usage - Field injection is not recommended.
+     * @Autowired
+     * private UserMapper userMapper;
+     * */
+
     private final UserMapper userMapper;
 
     @Autowired  // Autowire Mapper Bean in Service Impl
