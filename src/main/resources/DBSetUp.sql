@@ -1,3 +1,5 @@
+USE MyBatisDemo;
+
 -- -------------------------------
 -- Table Structure for DemoUser
 -- -------------------------------
@@ -15,8 +17,8 @@ CREATE TABLE DemoUser
 -- Preset Records for DemoUser
 -- -------------------------------
 INSERT INTO `DemoUser`
-VALUES ('10000001', 'Karaya_12', 'password1');
+VALUES ('10000001', 'Karaya_12', 'password!');
 INSERT INTO `DemoUser`
-VALUES ('10000002', 'ShiZhi Xu', 'password2');
+VALUES ('10000002', 'Username_1', 'password1');
 INSERT INTO `DemoUser`
-VALUES ('10000003', 'Panzer_Odyssey', 'password3');
+VALUES ('10000003', 'Username_2', 'password2');

@@ -15,7 +15,7 @@ spring:
   # Spring MySQL Datasource
   datasource:
     name: mybatisdemo
-    url: jdbc:mysql://localhost:3306/MyBatisDemo
+    url: jdbc:mysql://localhost:3306/MyBatisDemo?serverTimezone=UTC
     username: {Your DB Username Here}
     password: {Your DB Password Here}
 
